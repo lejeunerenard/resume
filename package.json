@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "Sean Zellmer's ( lejeunerenard ) Résumé",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lejeunerenard/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "pdf",
+    "markdown"
+  ],
+  "author": "lejeunerenard",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/lejeunerenard/resume/issues"
+  },
+  "homepage": "https://github.com/lejeunerenard/resume",
+  "dependencies": {
+    "markdown-pdf": "^5.2.0"
+  }
+}
